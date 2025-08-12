@@ -1,0 +1,4 @@
+background #0B0F1A
+primary accent #00D1B2
+secondary accent #F4B400
+text #E0E0E0 

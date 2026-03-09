@@ -34,7 +34,7 @@ const services = [
     title: "Backend & APIs",
     icon: <Server size={28} />,
     bullets: [
-      "Node.js, Express.js, REST & GraphQL",
+      "Node.js, Express.js, REST APIs",
       "Socket.io for realtime apps",
       "Authentication, rate-limiting, secure endpoints",
     ],
@@ -71,12 +71,12 @@ const services = [
   },
   {
     id: "ml",
-    title: "AI & Data Science",
+    title: "AI & Chat Bots",
     icon: <Cpu size={28} />,
     bullets: [
-      "Python, PyTorch, scikit-learn, pandas",
+      "Python, n8n, Langchain, Ai APIs",
       "Model prototyping & integration",
-      "Data pipelines & analytics",
+      "Chatbots Integration & Development",
     ],
   },
   {
@@ -87,16 +87,6 @@ const services = [
       "Meta & Google Ads",
       "SEO strategy & analytics",
       "Conversion optimization",
-    ],
-  },
-  {
-    id: "content",
-    title: "Video & Creative",
-    icon: <Film size={28} />,
-    bullets: [
-      "Pro-level CapCut edits, transitions & masking",
-      "Marketing videos & promos",
-      "Thumbnail & visual assets design",
     ],
   },
 ];

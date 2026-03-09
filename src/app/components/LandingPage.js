@@ -8,7 +8,6 @@ export default function LandingPage() {
   // Typewriter Effect
   const words = [
     "Full-Stack Developer",
-    "Cybersecurity Expert",
     "AI Engineer",
     "Digital Solutions Architect",
   ];
@@ -71,8 +70,8 @@ export default function LandingPage() {
             transition={{ delay: 0.4, duration: 1 }}
             className="text-lg text-gray-300 mb-6"
           >
-            Crafting secure, scalable, and high-performance web solutions —
-            blending modern tech with bulletproof security practices.
+            Crafting scalable and high-performance web solutions — blending
+            modern tech with security practices.
           </motion.p>
 
           {/* Icons Row */}
@@ -84,7 +83,9 @@ export default function LandingPage() {
           >
             <div className="flex items-center gap-2">
               <ShieldCheck className="text-cyan-400 w-6 h-6" />
-              <span className="text-[#F4B400]">Enterprise Security</span>
+              <span className="text-[#F4B400]">
+                Security Best Practices Followed
+              </span>
             </div>
             <div className="flex items-center gap-2">
               <Sparkles className="text-yellow-400 w-6 h-6" />
@@ -101,11 +102,11 @@ export default function LandingPage() {
           className="flex-1 flex justify-center"
         >
           <Image
-            src="/me.png"
+            src="/me2.png"
             alt="Profile"
             width={450}
             height={450}
-            className="rounded-2xl shadow-[0_0_30px_rgba(0,255,255,0.4)]"
+            className="rounded-2xl "
           />
         </motion.div>
       </div>

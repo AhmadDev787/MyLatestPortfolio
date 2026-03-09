@@ -13,6 +13,13 @@ import {
 const achievements = [
   {
     year: "2025",
+    title: "Full-Stack Rent A Car Web",
+    description:
+      "Engineered a lightning-fast, fully featured rent a car web with modern design, smart inventory control, and completed client's requirements.",
+    icon: ShoppingCart,
+  },
+  {
+    year: "2025",
     title: "Full-Stack E-Commerce Masterpiece",
     description:
       "Engineered a lightning-fast, fully featured store with a sleek admin hub, smart inventory control, and secure payment flow.",

@@ -12,6 +12,7 @@ import {
   SquareUserRound,
   Workflow,
   Eye,
+  Paperclip,
 } from "lucide-react";
 import { useState } from "react";
 import Link from "next/link";
@@ -39,6 +40,7 @@ export default function Header() {
     },
     { href: "/Visual", label: "Visualize", icon: <Eye className="w-4 h-4" /> },
     { href: "/Contact", label: "Contact", icon: <Phone className="w-4 h-4" /> },
+    { href: "/cv.pdf", label: "CV", icon: <Paperclip className="w-4 h-4" /> },
   ];
 
   return (
@@ -129,7 +131,7 @@ export default function Header() {
 
             {/* Footer Info in Menu */}
             <div className="mt-auto pt-6 border-t border-gray-700 text-sm text-gray-400">
-              <p>© 2025 Ahmad Dev</p>
+              <p>© 2026 Ahmad Dev</p>
               <p className="text-[#F4B400]">Crafting Secure Solutions</p>
             </div>
           </motion.div>

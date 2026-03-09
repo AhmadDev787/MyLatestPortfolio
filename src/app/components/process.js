@@ -86,7 +86,7 @@ export default function SecureProcessSteps() {
           className="text-center text-sm sm:text-base text-gray-300 max-w-2xl mx-auto mb-12"
         >
           From the first wireframe to the final deployment, I blend cutting-edge
-          design with military-grade security, ensuring your project is fast,
+          design with best security practices, ensuring your project is fast,
           reliable, and virtually unbreakable.
         </motion.p>
 

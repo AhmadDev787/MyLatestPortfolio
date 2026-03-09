@@ -25,8 +25,8 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold mb-4">About</h3>
             <p>
-              Full-stack developer & cybersecurity expert building secure,
-              scalable, and impactful digital products for businesses worldwide.
+              Full-stack developer building secure, scalable, and impactful
+              digital products for businesses worldwide.
             </p>
           </div>
           {/* Column 2 */}
@@ -74,7 +74,7 @@ export default function Footer() {
                 ahmadwebdev001@gmail.com
               </li>
               <li className="flex items-center gap-2">
-                <Phone className="w-4 h-4 text-cyan-400" /> +92 326 5378067
+                <Phone className="w-4 h-4 text-cyan-400" /> +39 346 356 9954
               </li>
             </ul>
           </div>

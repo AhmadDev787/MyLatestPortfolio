@@ -42,6 +42,7 @@ const techBadges = [
   "Node.js",
   "Express",
   "Socket.io",
+  "N8N",
   "MongoDB",
   "MySQL",
   "PostgreSQL",
@@ -51,12 +52,11 @@ const techBadges = [
   "Linux",
   "AWS",
   "Git",
+  "Prometheus",
+  "Grafana",
+  "Loki",
   "GitHub Actions",
-  "PyTorch",
   "Python",
-  "Pandas",
-  "NumPy",
-  "Scikit-learn",
   "Figma",
   "Photoshop",
   "Canva",
@@ -85,7 +85,8 @@ export default function SkillsPage() {
         </p>
         <div className="mt-6 flex items-center justify-center gap-4 text-sm text-gray-400">
           <span className="flex items-center gap-2">
-            <MapPin className="w-5 h-5 text-[#00D1B2]" /> Sargodha, Pakistan
+            <MapPin className="w-5 h-5 text-[#00D1B2]" /> Nocera Inferiore,
+            Italy
           </span>
           <span>•</span>
           <span className="flex items-center gap-2">

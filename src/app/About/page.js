@@ -31,19 +31,19 @@ export default function AboutPage() {
       icon: <ShieldCheck className="w-8 h-8 text-[#00D1B2]" />,
       title: "Cybersecurity",
       description:
-        "Specialized in secure authentication, encryption, and shielding apps from XSS, CSRF, SQLi, DoS, and DDoS attacks.",
+        "Always develop secure authentication, encryption, and shielding apps from XSS, CSRF, SQLi, DoS, and DDoS attacks.",
     },
     {
       icon: <Brain className="w-8 h-8 text-[#F4B400]" />,
-      title: "AI & Machine Learning",
+      title: "AI Powered Development",
       description:
-        "Proficient in PyTorch, Python, Pandas, NumPy, and Scikit-learn for AI-driven solutions, deep learning, and data science.",
+        "Experienced in integrating AI tools and APIs into web applications, leveraging technologies like OpenAI APIs, LangChain, and modern JavaScript frameworks to build intelligent and scalable products.",
     },
     {
       icon: <MonitorSmartphone className="w-8 h-8 text-[#00D1B2]" />,
       title: "UI/UX & Animation",
       description:
-        "Designing engaging user experiences in Figma, Photoshop, Canva with rich animations via GSAP.js & Framer Motion.",
+        "Designing engaging user experiences in Figma, Photoshop, Canva with rich animations via Framer Motion.",
     },
     {
       icon: <Rocket className="w-8 h-8 text-[#F4B400]" />,
@@ -71,7 +71,7 @@ export default function AboutPage() {
           passionate full-stack web developer, AI engineer, and digital
           solutions expert from{" "}
           <span className="text-[#00D1B2] font-semibold">
-            Sargodha, Pakistan
+            Nocera Inferiore, Italy
           </span>
           . I hold an{" "}
           <span className="text-[#00D1B2] font-semibold">
@@ -93,7 +93,7 @@ export default function AboutPage() {
           {
             icon: <MapPin className="w-6 h-6 text-[#00D1B2]" />,
             title: "Location",
-            description: "Sargodha, Punjab, Pakistan",
+            description: "Nocera Inferiore, Italy",
           },
           {
             icon: <GraduationCap className="w-6 h-6 text-[#F4B400]" />,

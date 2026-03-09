@@ -14,7 +14,6 @@ import {
 
 const skills = [
   { name: "Web Development", icon: Globe },
-  { name: "Cybersecurity", icon: Shield },
   { name: "Backend APIs", icon: Database },
   { name: "DevOps & Cloud", icon: Cloud },
   { name: "Networking", icon: Network },
@@ -76,9 +75,9 @@ export default function AboutSkills() {
             transition={{ duration: 0.6, delay: 0.4 }}
           >
             I’m a passionate developer & cybersecurity enthusiast with a broad
-            skill set in modern web development, secure systems, and automation.
-            I love creating efficient, scalable, and secure solutions tailored
-            to client needs.
+            skill set in modern web development, artificial intelligence (Gen
+            AI), and automation. I love creating efficient and scalable
+            solutions tailored to client needs.
           </motion.p>
         </motion.div>
 

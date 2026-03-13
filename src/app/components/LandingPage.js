@@ -8,7 +8,7 @@ export default function LandingPage() {
   // Typewriter Effect
   const words = [
     "Full-Stack Developer",
-    "AI Engineer",
+    "AI Developer",
     "Digital Solutions Architect",
   ];
   const [text, setText] = useState("");
@@ -102,7 +102,7 @@ export default function LandingPage() {
           className="flex-1 flex justify-center"
         >
           <Image
-            src="/me2.png"
+            src="/me3.png"
             alt="Profile"
             width={450}
             height={450}

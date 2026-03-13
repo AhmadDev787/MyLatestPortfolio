@@ -212,7 +212,7 @@ export default function ServicesPage() {
               <p className="mt-2 text-[#BFC9C9] max-w-2xl">
                 I deliver secure, production-ready systems with strong UX and
                 monitoring. My stack spans frontend, backend, DevOps and AI — so
-                you get a single, accountable engineer who can deliver
+                you get a single, accountable developer who can deliver
                 end-to-end.
               </p>
             </div>

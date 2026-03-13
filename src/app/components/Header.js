@@ -52,7 +52,7 @@ export default function Header() {
           className="flex items-center gap-2 text-[#00D1B2] font-bold text-lg cursor-pointer"
         >
           <ShieldCheck className="w-6 h-6" />
-          Ahmad Dev
+          Ahmad Web Dev
         </motion.div>
 
         {/* Desktop Menu */}

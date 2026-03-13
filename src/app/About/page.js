@@ -68,7 +68,7 @@ export default function AboutPage() {
         <p className="text-lg text-gray-300 leading-relaxed">
           My name is{" "}
           <span className="text-[#F4B400] font-semibold">Ahmad Hassan</span>, a
-          passionate full-stack web developer, AI engineer, and digital
+          passionate full-stack web developer, AI developer, and digital
           solutions expert from{" "}
           <span className="text-[#00D1B2] font-semibold">
             Nocera Inferiore, Italy
